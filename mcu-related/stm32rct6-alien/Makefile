@@ -9,7 +9,7 @@ PROJECT_NAME = blank
 
 # Project root path
 PROJECT_ROOT_PATH = ..
-STM_STD_LIB_PATH = $(PROJECT_ROOT_PATH)/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries
+STM_STD_LIB_PATH = $(PROJECT_ROOT_PATH)/includes/Libraries
 
 # STM header files path should be registered here
 # Standard libraries inc file path

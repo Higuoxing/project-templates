@@ -9,7 +9,7 @@ PROJECT_NAME = BLANK
 
 # Project root path
 PROJECT_ROOT_PATH = ..
-STM_STD_LIB_PATH = $(PROJECT_ROOT_PATH)/STM32F4-Discovery_FW_V1.1.0
+STM_STD_LIB_PATH = $(PROJECT_ROOT_PATH)/includes
 
 # Third-party libraries should be add here
 TM_STM_LIB_PATH = $(PROJECT_ROOT_PATH)/TM_STM32F4xxLIBRARIES
